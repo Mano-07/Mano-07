@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hello, I'm Manohar P – A Java Fullstack Developer
 
-<!--
-**Mano-07/Mano-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a passionate **Java Fullstack Developer**, I specialize in building dynamic, scalable, and efficient web applications. My expertise lies in creating seamless, user-friendly front-end interfaces using **React.js** and robust, scalable back-end systems with **Java** and **Spring Boot**.
 
-Here are some ideas to get you started:
+I believe in writing clean, maintainable code that adheres to best practices, and I thrive in environments that encourage collaboration, innovation, and continuous learning. With a solid foundation in both front-end and back-end technologies, I am committed to delivering end-to-end solutions that drive business success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 What I Do:
+
+- Develop **scalable web applications** from concept to deployment using **React.js** (for front-end) and **Spring Boot** (for back-end).
+- Build **robust RESTful APIs** and manage **database systems** using **Java** and **MySQL**.
+- Design responsive, intuitive user interfaces using **HTML5**, **CSS3**, and **JavaScript**.
+- Integrate and consume APIs using tools like **Postman** and ensure that front-end and back-end systems work seamlessly together.
+- Leverage **Git** for version control and collaborate in Agile teams to bring projects to life.
+
+---
+
+### 🛠 Technologies & Tools I Use:
+
+- **Frontend**:  
+  - ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)  
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  - ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+- **Backend**:  
+  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- **Tools & Platforms**:  
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  - ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)  
+  - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+  - ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+### 💼 My Development Approach:
+
+- **Clean & Maintainable Code**: I focus on writing high-quality, easy-to-understand code.
+- **Scalable Systems**: I design and build applications that can scale with the growth of your business.
+- **Agile & Collaborative**: I enjoy working with teams using Agile methodologies to build successful products.
+- **Continuous Learning**: I constantly keep up with the latest technology trends and best practices to stay ahead in the fast-changing world of development.
+
+---
+
+### 🌐 Let's Connect:
+
+- **GitHub**: [https://github.com/ManoDev](https://github.com/Mano-07)
+- **LinkedIn**: [https://linkedin.com/in/ManoDev](https://linkedin.com/in/manoharp-dev-2k03)
+
+---
+
+Feel free to explore my repositories, open issues, and contribute to open-source projects. I'm always open to collaborating on exciting projects and learning new things!
+
+Thanks for visiting my profile! 🚀👨‍💻
