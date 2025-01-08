@@ -49,8 +49,8 @@ I believe in writing clean, maintainable code that adheres to best practices, an
 
 ### 🌐 Let's Connect:
 
-- **GitHub**: [https://github.com/ManoDev](https://github.com/Mano-07)
-- **LinkedIn**: [https://linkedin.com/in/ManoDev](https://linkedin.com/in/manoharp-dev-2k03)
+- **GitHub**: [https://github.com/Mano-07](https://github.com/Mano-07)
+- **LinkedIn**: [https://linkedin.com/in/manoharp-dev-2k03](https://linkedin.com/in/manoharp-dev-2k03)
 
 ---
 
