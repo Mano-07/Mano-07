@@ -46,8 +46,8 @@ As a passionate **Java Fullstack Developer**, I specialize in building dynamic, 
 
 ### 🌐 Let's Connect:
 
-- **GitHub**: [https://github.com/Mano-07](https://github.com/Mano-07)
-- **LinkedIn**: [https://linkedin.com/in/manohar-dev-2k03](https://linkedin.com/in/manohar-dev-2k03)
+- **GitHub**: [Manohar P](https://github.com/Mano-07)
+- **LinkedIn**: [Manohar P](https://linkedin.com/in/manohar-dev-2k03)
 
 ---
 
