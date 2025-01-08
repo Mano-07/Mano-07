@@ -2,8 +2,6 @@
 
 As a passionate **Java Fullstack Developer**, I specialize in building dynamic, scalable, and efficient web applications. My expertise lies in creating seamless, user-friendly front-end interfaces using **React.js** and robust, scalable back-end systems with **Java** and **Spring Boot**.
 
-I believe in writing clean, maintainable code that adheres to best practices, and I thrive in environments that encourage collaboration, innovation, and continuous learning. With a solid foundation in both front-end and back-end technologies, I am committed to delivering end-to-end solutions that drive business success.
-
 ---
 
 ### 👨‍💻 What I Do:
@@ -42,7 +40,6 @@ I believe in writing clean, maintainable code that adheres to best practices, an
 
 - **Clean & Maintainable Code**: I focus on writing high-quality, easy-to-understand code.
 - **Scalable Systems**: I design and build applications that can scale with the growth of your business.
-- **Agile & Collaborative**: I enjoy working with teams using Agile methodologies to build successful products.
 - **Continuous Learning**: I constantly keep up with the latest technology trends and best practices to stay ahead in the fast-changing world of development.
 
 ---
@@ -53,7 +50,5 @@ I believe in writing clean, maintainable code that adheres to best practices, an
 - **LinkedIn**: [https://linkedin.com/in/manohar-dev-2k03](https://linkedin.com/in/manohar-dev-2k03)
 
 ---
-
-Feel free to explore my repositories, open issues, and contribute to open-source projects. I'm always open to collaborating on exciting projects and learning new things!
 
 Thanks for visiting my profile! 🚀👨‍💻
